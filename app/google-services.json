@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510410001316",
+    "firebase_url": "https://boreal-voyager-303119-default-rtdb.firebaseio.com",
+    "project_id": "boreal-voyager-303119",
+    "storage_bucket": "boreal-voyager-303119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510410001316:android:d8acd641a41cc9fff40f31",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510410001316-fu353k3qr8qjbhrngc8rn3e6026erlbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNfN8r5lMaCTUlYV302qlf_2vZCth908"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510410001316-fu353k3qr8qjbhrngc8rn3e6026erlbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
