@@ -41,3 +41,8 @@ Contributions are welcome! If you'd like to contribute to Firebase Auth Article 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Video
+
+https://github.com/abderrahmen-Baccouch/stock-manager/assets/97245446/91f77689-1cce-45e3-87d0-9362ef99a1e7
+
+
